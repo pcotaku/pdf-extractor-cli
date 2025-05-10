@@ -29,7 +29,7 @@ A powerful Python command-line tool that extracts data from PDF files with a cle
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pdf-extractor-cli.git
+git clone https://github.com/sfkbstnc/pdf-extractor-cli.git
 cd pdf-extractor-cli
 
 # Install dependencies
